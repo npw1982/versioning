@@ -27,11 +27,6 @@
             "LaravelEnso\\Versioning\\": "src/"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "Tests\\": "tests/"
-        }
-    },
     "extra": {
         "laravel": {
             "providers": [
@@ -39,8 +34,5 @@
             ],
             "aliases": {}
         }
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^10.5"
     }
 }
